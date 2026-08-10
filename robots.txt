@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-vgae0m.originmovement.co.nz/sitemap.xml
